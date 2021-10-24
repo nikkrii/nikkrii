@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikkrii
 - 👀 I’m interested in ... software developement
 - 🌱 I’m currently learning ... JAVA and SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://hr.linkedin.com/in/nikola-kri%C5%BEnjak-49a1531a3
 
 <!---
